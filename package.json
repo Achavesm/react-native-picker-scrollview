@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yasemincidem/react-native-picker-scrollview/issues"
   },
-  "homepage": "https://github.com/yasemincidem/react-native-picker-scrollview#readme"
+  "homepage": "https://github.com/yasemincidem/react-native-picker-scrollview#readme",
+  "dependencies": {
+    "styled-components": "^3.4.2"
+  }
 }
